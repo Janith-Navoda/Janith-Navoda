@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janith Navoda</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **janithnavodatilakasiri@gmail.com**
 
