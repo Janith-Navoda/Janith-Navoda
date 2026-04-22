@@ -17,8 +17,8 @@
 ```typescript
 const janith = {
     location: "Sri Lanka",
-    role: "Software Engineer",
-    currentlyLearning: ["AI", "IoT", ".NET"],
+    role: "Intern Software Engineer",
+    currentlyLearning: ["AI", "IoT", "Arduino"],
     interests: ["Artificial Intelligence", "Internet of Things", "Web Development"],
     askMeAbout: ["Software Development", "AI", "IoT", "Full Stack"]
 };
@@ -55,9 +55,7 @@ const janith = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI & IoT
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,7 +67,7 @@ const janith = {
 
 - 🤖 Exploring **AI/Machine Learning** applications
 - 🔌 Building **IoT** projects and smart solutions
-- 💻 Developing full-stack applications with **.NET**
+- 💻 Developing full-stack applications
 - 🌐 Contributing to open-source projects
 - 📚 Continuous learning and skill development
 
